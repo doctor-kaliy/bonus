@@ -1,0 +1,12 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(all {file:/home/eugene/gavno/bonus/}bonus/products {file:/home/eugene/gavno/bonus/}bonus/test:products, None, None)[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / products, Test / products[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m[0J
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /home/eugene/gavno/bonus/target/scala-2.13/classes ...[0m[0J
+[0m[[0m[33mwarn[0m] [0m[0m/home/eugene/gavno/bonus/src/main/scala/ScalaApp.scala:19:61: multiarg infix syntax looks like a tuple and will be deprecated[0m[0J
+[0m[[0m[33mwarn[0m] [0m[0m         if check(i, j, k, l)) yield ((i, j, k, l), squares - (i, j, k, l))[0m[0J
+[0m[[0m[33mwarn[0m] [0m[0m                                                            ^[0m[0J
+[0m[[0m[33mwarn[0m] [0m[0m1 deprecation (since 2.13.0); re-run with -deprecation for details[0m[0J
+[0m[[0m[33mwarn[0m] [0m[0mtwo warnings found[0m[0J
+[0m[[0m[0minfo[0m] [0m[0mdone compiling[0m[0J
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 1 s, completed Oct 18, 2020, 1:06:27 AM[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(idea-shell, None, None)[0m[0J
